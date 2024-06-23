@@ -133,7 +133,7 @@ export const questions = {
         correctAnswer: 'Can we get much higher'
       },
       {
-        question: "What type is Whitebeard's weapon(Murakumogiri)?",
+        question: "What type is Whitebeard's weapon (Murakumogiri)?",
         choices: ['Katana','Naginata','Shrapnel','Hawkbill'],
         correctAnswer: 'Naginata'
       },
